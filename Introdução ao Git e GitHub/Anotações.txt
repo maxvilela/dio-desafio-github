@@ -1,0 +1,3 @@
+-------
+cd -> Acessa a pasta.
+dir -> Mostra as pastas.
